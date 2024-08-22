@@ -1,2 +1,3 @@
 # eshaan-s-Demo
-First repo
+First repository
+Author- Eshaan Oozher Kapooswalla
